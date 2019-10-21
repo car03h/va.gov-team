@@ -1,31 +1,50 @@
 # Product development checklist
 
-Right after onboarding, you should be checking in with VSP regularly to connect on each of the items in this list. All items here must be completed and signed off on by VSP before a new application can launch, and you should start convos about each item early - so you can work on them incrementally and iterate from day one.
+This list is here to help you more easily ensure your feature meets VA's required standards for design, UX, reliability, availability, and measurability in order to launch.
 
-If you're unsure how to tackle various things on this list, just ask in #vfs-platform-support so VSP can help! Hearing your questions also helps VSP iterate on the VSP documents and tools over time to make these things easier for VFS Teams in the future.
+### Ask yourself these questions weekly, starting from Day 1.
 
-These processes are here to help ensure we're launching features that are:
-* in line with VA.gov's standards for design, UX, reliability, and availability
-* maintainable over time
-* have measurable analytics and success metrics to empower future planning and development
+You won't have answers right away, but starting early and checking in weekly helps you develop answers incrementally and iteratively over the lifetime of your product. In orderr to launch, each item in this list must be completed and ok'd by Platform, so check in with us early and often to avoid encountering roadblocks which could delay launch.
 
-- [ ] [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
-- [ ] [ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
-- [ ] [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
-- [ ] [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
-- [ ] Analytics / Product Health Report review
-*   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
-- [ ] Release plan review
-*   Review release phases and criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms.
-- [ ] [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
-*   Should include review of URLs, navigation hierarchy, crosslinks/redirects, SEO
-- [ ] Security review
-*   Review looking for potential technical security issues / vulnerabilities, focusing particularly on frontend-backend interactions, anything involving certificates or cookies, and any new interactions with dependent backends.
-- [ ] Privacy review
-*   Review looking for potential user data issues, including affirming best practices around handling PII.
+_Note: processes for some items in this list may be under construction, so as always, use the **#vfs-platform-support** Slack channel whenever you have a question about how to proceed! Hearing your questions also helps us know where the Platform processes and resources may be falling short, so over time so we can keep improving your experience._
+
+---
+
+Make a copy of this and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) so you can keep track of your progress from discovery through post-launch.
+
+
+## Is my feature/product...
+
+## User-friendly (for ALL users)?
+
+- [ ] Talk to and test with (multiple times!) users, and VA employees providing the service
+- [ ] Write a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/34add7c7b3d558158ccf3f599e79c2380076481c/platform/product-management/product-outline-template.md) 
+- [ ] Make everything [508 Accessibile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md) and check in with us for reviews
+- [ ] Reach out for a [feature content check in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
+- [ ] Follow [Design best practices(), and [check in with us for reviews](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+- [ ] Reach out for a [QA check in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md)
+- [ ] Perform User Acceptance Testing
+- [ ] Reach out for a Research check in
+
+## Findable?
+
+- [ ] Reach out for an [IA check in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+- [ ] Reach out for a static content check in
+- [ ] Reach out for an SEO and cross-linking check-in
+
+## Compliant?
+
+- [ ] [ATO check in](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
+
+## Measurable?
+- [ ] Analytics / Product Health Report review: this process is under construction, Slack us in **#vfs-platform-support** to organically coordinate working through this requirement!
+- [ ] [Release plan check in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md)
+
+## Safe and reliable?
+- [ ] Security review: this process is under construction, Slack us in **#vfs-platform-support** to organically coordinate working through this requirement!
+- [ ] Privacy review: this process is under construction, Slack us in **#vfs-platform-support** to organically coordinate working through this requirement!
 - [ ] Production readiness / infrastructure review
-*   Review of technical architecture, looking for potential scaling concerns, dependency analysis, SLO assessment
-- [ ] Documentation for quickly addressing when things go wrong
+- [ ] Documentation for quickly addressing when things go wrong: this process is under construction, Slack us in **#vfs-platform-support** to organically coordinate working through this requirement!
 - [ ]   Contacts for oncall support: who do we contact if the application is failing? What kinds of failure modes are likely?
     - [ ]   Documentation and points of contact for any new backend dependencies
     - [ ]   Links to important dashboards for investigating relevant issues
@@ -37,10 +56,51 @@ These processes are here to help ensure we're launching features that are:
 - [ ] Monitoring requirements
     - [ ]   Contact (mailing list? Slack channel?) for errors to be reported to
     - [ ]   Errors getting sent directly to team
-- [ ] Contact center(s) are prepared for this launch, with updated scripts/documentation as needed
-- [ ] VA web comms team is aware of this launch and has accurate messaging
-- [ ] Product Outline w/critical criteria up-to-date
+
+~- [ ] Contact center(s) are prepared for this launch, with updated scripts/documentation as needed~
+~- [ ] VA web comms team is aware of this launch and has accurate messaging~
+
 - [ ] Tested in prod with VA back-of-house people and systems
 - [ ] Entrance pages (i.e. supporting static content) in place
 - [ ] Downtime UX and error messaging documentation complete
 - [ ] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
+
+
+Usable?
+508 audit complete, and issues documented
+e2e manual testing complete, and bugs fixed
+e2e automated testing complete and successful
+
+Discoverable?
+URL and nav are ready
+SEO is set up
+Any necessary redirects / crosslinks from other webpages are in place
+Supporting static content is ready
+
+Secure?
+Internal VA.gov security audit completed
+VA (WASA) security experts have reviewed
+
+Reliable?
+Load testing complete
+Alerts configured (saturation, error rate, latency, availability)
+Rate limits set
+Downtime notification rules and messaging set
+
+Trackable?
+Analytics set up
+Monitoring set up
+Logging configured
+
+Supportable?
+Call centers are ready (Product Outline and Demo Video)
+VA.gov Feedback Form support team is ready
+Platform is prepared to disable via feature flag
+
+Marketable?
+Web comms team knows value propositions AND limitations for accurate messaging
+Vets.gov and wider VA are aware of impending launch and main talking points (Product Launch Email)
+
+Live?
+Go/No-go complete and successful
+Product launched!
