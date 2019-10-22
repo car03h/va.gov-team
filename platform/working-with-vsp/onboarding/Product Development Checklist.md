@@ -29,7 +29,7 @@ Here's what to expect from each practice area during your check ins:
 
 ---
 
-# Step 2: Use the Checklist!
+# Step 2: Reference and update the checklist weekly!
 
 ## Is my product...
 
@@ -83,5 +83,13 @@ Here's what to expect from each practice area during your check ins:
 - [ ] Create Product brief with visuals, outlining the value and functionality of your product
 - [ ] Update Product Outline with proposed next phase of features to build
 
-# Step 3: Schedule a Go / No Go meeting with Platform, your PO, and other stakeholders whose sign-off you need
-[Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+# Step 3: Schedule a Go / No Go meeting
+
+With Platform, your PO, and other stakeholders whose sign-off you need. [Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+
+# Step 4: Report on your KPIs in Team of Teams
+
+Be prepared to give a 10 second readout of:
+- The KPIs you set
+- Which #s you're hitting and missing
+- What you're doing as a result
