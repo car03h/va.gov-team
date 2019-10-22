@@ -84,7 +84,7 @@ Ask yourself the following questions weekly and update the checklist with your p
 
 # Step 3
 
-Schedule a Go / No Go meeting With Platform, your PO, and other stakeholders whose sign-off you need. [Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+Schedule a Go / No Go meeting With Platform, your PO, and other stakeholders whose sign-off you need in order to kick off your release plan. [Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 
 # Step 4
 
