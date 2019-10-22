@@ -28,9 +28,9 @@ Ask yourself the following questions weekly and update the checklist with your p
 - [ ] Use plain language to [write your product content](https://design.va.gov/content-style-guide/)
 - [ ] Use our [Design System](https://design.va.gov/) to mock up, build, and iterate on ideas
 - [ ] Create and document [downtime notification rules and appropriate error messaging](https://design.va.gov/patterns/messaging-error-messages)
-- [ ] [Do e2e QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md) (including back-of-house people and systems) and resolve Sev1 bugs
-- [ ] Do e2e User Acceptance Testing in production (including back-of-house people and systems) and resolve Sev1 bugs
-- [ ] Creat e2e tests, running in CI/CD, that pass on all browsers
+- [ ] [Do end-to-end QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md) (including back-of-house people and systems) and resolve Sev1 bugs
+- [ ] Do end-to-end UAT in production (including back-of-house people and systems) and fix Sev1 bugs
+- [ ] Creat end-to-end tests, running in CI/CD, that pass on all browsers
 
 ### ...findable?
 
