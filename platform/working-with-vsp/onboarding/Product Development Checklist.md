@@ -14,17 +14,17 @@ _Note: step-by-step processes for some items in this list may be under construct
 
 Make a copy of this list and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) so you can keep track of your progress from discovery through post-launch. Check in with Platform regularly to make sure you're on track across all areas.
 
-Here's what to expect from each practice area during your check ins:
-  - [Product]()
-  - [Design and Accessibility]()
-  - [Content]()
+Here's what each practice area will be looking out for during your check ins:
+  - [Product]
+  - [Design]
+  - [Accessibility]
+  - [Content]
   - [IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
-  - [QA]()
+  - [QA]
   - [Security]
-  - [Privacy]()
-  - []()
-  - [Analytics]()
-  - [Load teseting]()
+  - [Privacy]
+  - [Analytics]
+  - [Load testing]
   - [Infrastructure / Production Readiness]
 
 ---
