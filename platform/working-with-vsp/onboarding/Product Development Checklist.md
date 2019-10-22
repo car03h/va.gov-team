@@ -6,7 +6,7 @@ This list is here to help you more easily ensure your product meets VA's require
 
 You won't have answers right away, but starting early and checking in weekly helps you develop answers incrementally and iteratively over the lifetime of your product. In order to launch, each item in this list must be completed and ok'd by Platform, so check in with us early and often to avoid encountering roadblocks which could delay launch.
 
-_Note: processes for some items in this list may be under construction, so as always, use the **#vfs-platform-support** Slack channel whenever you have a question about how to proceed! Hearing your questions also helps us know where the Platform processes and resources may be falling short, so over time so we can keep improving your experience._
+_Note: step-by-step processes for some items in this list may be under construction, so as always, use the **#vfs-platform-support** Slack channel whenever you have a question about how to proceed!_
 
 ---
 
