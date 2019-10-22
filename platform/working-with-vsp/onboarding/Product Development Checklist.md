@@ -8,13 +8,15 @@ _Note: step-by-step processes for some items in this list may be under construct
 
 ---
 
-# Step 1
+# Step 1 
 
-Make a copy of the checklist below and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). Check in with Platform regularly to make sure you're on track across all areas.
+Make a copy of the checklist below and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) and get ready to check in with Platform regularly to make sure you're on track across all areas and have the support you need to succeed.
 
 ---
 
-# Step 2: Reference and update the checklist weekly!
+# Step 2
+
+Ask yourself the following questions weekly and update the checklist with your progress.
 
 ## Is my product...
 
@@ -79,13 +81,13 @@ Make a copy of the checklist below and store it in the appropriate [product fold
   - [Infrastructure / Production Readiness]
 
 
-# Step 3: Schedule a Go / No Go meeting
+# Step 3
 
-With Platform, your PO, and other stakeholders whose sign-off you need. [Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+Schedule a Go / No Go meeting With Platform, your PO, and other stakeholders whose sign-off you need. [Here's a template for a great go / no go meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 
-# Step 4: Report on your KPIs in Team of Teams
+# Step 4
 
-Be prepared to give a 10 second readout of:
+Report on your KPIs in Team of Teams:
 - The KPIs you set
 - Which #s you're hitting and missing
 - What you're doing as a result
