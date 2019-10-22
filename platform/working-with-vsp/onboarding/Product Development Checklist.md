@@ -1,31 +1,16 @@
 # Product development checklist
 
-This list is here to help you more easily ensure your product meets VA's required standards for design, UX, reliability, availability, and measurability in order to launch.
+### Ask yourself the questions below weekly, starting from Day 1.
 
-### Ask yourself these questions weekly, starting from Day 1.
+You won't have answers right away, but should develope your answers iteratively over the lifetime of your product. This checklist is here to help you meet VA's required standards. Each item must be completed and ok'd by Platform, so check in with us early and often to avoid encountering roadblocks which could delay launch.
 
-You won't have answers right away, but starting early and checking in weekly helps you develop answers incrementally and iteratively over the lifetime of your product. In order to launch, each item in this list must be completed and ok'd by Platform, so check in with us early and often to avoid encountering roadblocks which could delay launch.
-
-_Note: step-by-step processes for some items in this list may be under construction, so as always, use the **#vfs-platform-support** Slack channel whenever you have a question about how to proceed!_
+_Note: step-by-step processes for some items in this list may be under construction, so as always, use the **#vfs-platform-support** Slack channel whenever you have a question on how to proceed!_
 
 ---
 
 # Step 1
 
-Make a copy of this list and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) so you can keep track of your progress from discovery through post-launch. Check in with Platform regularly to make sure you're on track across all areas.
-
-Here's what each practice area will be looking out for during your check ins:
-  - [Product]
-  - [Design]
-  - [Accessibility]
-  - [Content]
-  - [IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
-  - [QA]
-  - [Security]
-  - [Privacy]
-  - [Analytics]
-  - [Load testing]
-  - [Infrastructure / Production Readiness]
+Make a copy of the checklist below and store it in the appropriate [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). Check in with Platform regularly to make sure you're on track across all areas.
 
 ---
 
@@ -79,6 +64,20 @@ Here's what each practice area will be looking out for during your check ins:
 ### ...marketable?
 - [ ] Create Product brief with visuals, outlining the value and functionality of your product
 - [ ] Update Product Outline with proposed next phase of features to build
+
+## Here's what each practice area will be looking for during your check ins:
+  - [Product]
+  - [Design]
+  - [Accessibility]
+  - [Content]
+  - [IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+  - [QA]
+  - [Security]
+  - [Privacy]
+  - [Analytics]
+  - [Load testing]
+  - [Infrastructure / Production Readiness]
+
 
 # Step 3: Schedule a Go / No Go meeting
 
