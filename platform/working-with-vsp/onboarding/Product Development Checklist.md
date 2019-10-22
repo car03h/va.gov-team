@@ -34,7 +34,8 @@ Ask yourself the following questions weekly and update the checklist with your p
 
 ### ...findable?
 
-- [ ] Create URL and navigation per the user mental model (and with SEO in mind)
+- [ ] Create URL and navigation per the user mental model
+- [ ] Bake SEO into everything
 - [ ] Create static entrance content
 - [ ] Cross link as necessary from other locations per the user mental model
 
