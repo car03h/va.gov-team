@@ -68,18 +68,18 @@ Ask yourself the following questions weekly and update the checklist with your p
 - [ ] Update Product Outline with proposed next phase of features to build
 
 ## Here's what each practice area will be looking for during your check ins:
+  - [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+  - [Analytics]
+  - [ATO](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
+  - [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
+  - [Design](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+  - [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+  - [Infrastructure / Production Readiness]
+  - [Load testing]
+  - [Privacy]
   - [Product]
-  - [Design]
-  - [Accessibility]
-  - [Content]
-  - [IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
   - [QA]
   - [Security]
-  - [Privacy]
-  - [Analytics]
-  - [Load testing]
-  - [Infrastructure / Production Readiness]
-
 
 # Step 3
 
