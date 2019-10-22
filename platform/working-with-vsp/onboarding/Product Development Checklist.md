@@ -76,9 +76,6 @@ Here's what to expect from each practice area during your check ins:
 - [ ] Configure alerts (saturation, error rate, latency, availability)? and document POC for errors
 - [ ] Set rate limits?
 
-~- [ ] Contact center(s) are prepared for this launch, with updated scripts/documentation as needed~
-~- [ ] VA web comms team is aware of this launch and has accurate messaging~
-
 ### ...marketable?
 - [ ] Create Product brief with visuals, outlining the value and functionality of your product
 - [ ] Update Product Outline with proposed next phase of features to build
