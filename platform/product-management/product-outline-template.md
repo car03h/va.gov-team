@@ -26,6 +26,9 @@
 
 ## Solution Approach
 
+### MVP strategy + rationale
+### How the approach drives the [Digital Modernization Principles](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/DigitalModernizationStrategy.pdf)
+
 ## Value Propositions
 
 ## KPIs
