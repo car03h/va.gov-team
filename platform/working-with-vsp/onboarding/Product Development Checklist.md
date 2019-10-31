@@ -41,6 +41,7 @@ Ask yourself the following questions weekly and update the checklist with your p
 
 ### ...compliant?
 
+- [ ] Check that your solution approach adheres to DEPO's [7 Digital Modernization Principles](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/DigitalModernizationStrategy.pdf)
 - [ ] [ATO check in](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
 
 ### ...measurable?
