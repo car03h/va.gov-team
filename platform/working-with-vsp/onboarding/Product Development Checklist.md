@@ -70,6 +70,11 @@ Ask yourself the following questions weekly and update the checklist with your p
 - [ ] Update Product Outline with proposed next phase of features to build
 
 ## Here's what each practice area will be looking for during your check ins:
+
+Send a Slack message every couple of weeks to the vfs-platform-support channel so we can go through this checklist with you, and make sure that your product is complying with the criteria for each practice are below:
+
+You definitely need this check-in prior to launch, and need VSP's official sign-off, but ideally you're checking in with us regularly starting from Day 1 to avoid a big delay right prior to launch.
+
   - [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
   - [Analytics]
   - [ATO](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
